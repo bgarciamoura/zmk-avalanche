@@ -94,7 +94,7 @@
 &kp GRAVE   &kp Q           &kp W         &kp E                &kp R              &kp T                                    &kp Y      &kp U             &kp I             &kp O               &kp P                 &kp APOS
 &kp TAB     &kp LEFT_SHIFT  &kp A         &bhm LEFT_CONTROL S  &bhm LEFT_SHIFT D  &bhm LEFT_ALT F  &bhm LEFT_WIN G                    &bhm RIGHT_WIN H  &bhm RIGHT_ALT J  &bhm RIGHT_SHIFT K  &bhm RIGHT_CONTROL L  &kp SEMI         &kp MINUS  &tiro
 &kp LCTRL   &kp Z           &kp X         &kp C                &kp V              &kp B            &kp BACKSPACE    &none  &none      &kp DEL           &kp N             &kp M               &kp COMMA             &kp DOT          &kp FSLH   &kp BACKSLASH
-            &kp LEFT_GUI    &kp LEFT_ALT  &lt 2 BACKSPACE      &lt 1 SPACE        &kp ENTER                                &kp ENTER  &kp SPACE         &mo 2             &mo 1               &macro_vim_save
+            &kp LEFT_GUI    &kp LEFT_ALT  &lt 2 SPACE          &lt 1 BACKSPACE    &kp ENTER                                &kp ENTER  &kp SPACE         &mo 2             &mo 1               &macro_vim_save
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
